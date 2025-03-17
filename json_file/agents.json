@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "67b6d256f1239fa69e963e80"
+  },
+  "agent_name": "Product Support Agent",
+  "agent_type": "Custom Developed",
+  "department_owner": "User1",
+  "status": true,
+  "audience": "External Users",
+  "risk_score": 6.4,
+  "created_at": {
+    "$date": "2025-02-20T06:57:26.454Z"
+  },
+  "modified_at": {
+    "$date": "2025-02-20T06:57:26.454Z"
+  },
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "67b6d2b9f1239fa69e963e81"
+  },
+  "agent_name": "IT Support Agent",
+  "agent_type": "Custom ",
+  "department_owner": "User2",
+  "status": true,
+  "audience": "Internal Users",
+  "risk_score": 7.4,
+  "created_at": {
+    "$date": "2025-02-20T06:59:05.518Z"
+  },
+  "modified_at": {
+    "$date": "2025-02-20T06:59:05.518Z"
+  },
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "67b6d2dcf1239fa69e963e82"
+  },
+  "agent_name": "Billing Support Agent",
+  "agent_type": "Billings ",
+  "department_owner": "User3",
+  "status": true,
+  "audience": "Billings Users",
+  "risk_score": 8.4,
+  "created_at": {
+    "$date": "2025-02-20T06:59:40.914Z"
+  },
+  "modified_at": {
+    "$date": "2025-02-20T06:59:40.914Z"
+  },
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "67b6d310f1239fa69e963e83"
+  },
+  "agent_name": "Developer Support Agent",
+  "agent_type": "copilot Developer",
+  "department_owner": "User4",
+  "status": true,
+  "audience": "Developer Users",
+  "risk_score": 9.4,
+  "created_at": {
+    "$date": "2025-02-20T07:00:32.095Z"
+  },
+  "modified_at": {
+    "$date": "2025-02-20T07:00:32.095Z"
+  },
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "67b6d371f1239fa69e963e84"
+  },
+  "agent_name": "Users Support Agent",
+  "agent_type": "Users Developer",
+  "department_owner": "User5",
+  "status": true,
+  "audience": "Users",
+  "risk_score": 4.4,
+  "created_at": {
+    "$date": "2025-02-20T07:02:09.516Z"
+  },
+  "modified_at": {
+    "$date": "2025-02-20T07:02:09.516Z"
+  },
+  "is_deleted": false
+}]
